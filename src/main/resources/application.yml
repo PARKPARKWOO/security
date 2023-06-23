@@ -8,7 +8,7 @@ spring:
         registration:
           keycloak:
             client-id: oauth2-client-app
-            client-secret: ndh8xwg9xTQrL2BpFldHjXOXtmd0iTY9
+            client-secret:
             client-name: oauth2-client-app
             authorization-grant-type: authorization_code
             client-authentication-method: client_secret_basic
